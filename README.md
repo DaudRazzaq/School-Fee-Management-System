@@ -35,11 +35,11 @@
    git clone https://github.com/your-username/School-Fee-Management-System.git
    cd School-Fee-Management-System
  ## First-Time Setup
- Install dependencies
+# Install dependencies
 pnpm install
 
- Generate TypeScript types
+# Generate TypeScript types
 pnpm build:types
 
- Run development server
+# Run development server
 pnpm dev
