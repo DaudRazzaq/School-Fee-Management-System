@@ -32,5 +32,14 @@
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/your-username/my-v0-project.git
-   cd my-v0-project
+   git clone https://github.com/your-username/School-Fee-Management-System.git
+   cd School-Fee-Management-System
+ ##First-Time Setup
+# Install dependencies
+pnpm install
+
+# Generate TypeScript types
+pnpm build:types
+
+# Run development server
+pnpm dev
