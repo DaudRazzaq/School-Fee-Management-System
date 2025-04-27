@@ -35,6 +35,7 @@
    git clone https://github.com/your-username/School-Fee-Management-System.git
    cd School-Fee-Management-System
  ## First-Time Setup
+ ```bash
 # Install dependencies
 pnpm install
 
